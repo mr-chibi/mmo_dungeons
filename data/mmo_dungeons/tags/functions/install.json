@@ -1,0 +1,9 @@
+{
+	"values": [
+		// Addons:
+		"mmo_dungeons:scoreboards/multiplayer/addons",
+
+		// Installation
+		"mmo_dungeons:scoreboards/install"
+	]
+}

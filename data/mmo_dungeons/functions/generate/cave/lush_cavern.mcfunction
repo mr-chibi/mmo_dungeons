@@ -1,0 +1,5 @@
+# North, East, South, West:
+execute as @s[y_rotation=135..-135,tag=mmo_dungeon_key] as @e[type=minecraft:marker,tag=mmo_dungeon_door,distance=0..1,limit=1,tag=!dungeon_preventions,tag=dungeon_generated] at @s[scores={dungeon_spawn_room=3}] run place template mmo_dungeons:cave/lush_cavern ~-4 ~-1 ~ counterclockwise_90
+execute as @s[y_rotation=-135..-45,tag=mmo_dungeon_key] as @e[type=minecraft:marker,tag=mmo_dungeon_door,distance=0..1,limit=1,tag=!dungeon_preventions,tag=dungeon_generated] at @s[scores={dungeon_spawn_room=3}] run place template mmo_dungeons:cave/lush_cavern ~ ~-1 ~-4 none
+execute as @s[y_rotation=-45..45,tag=mmo_dungeon_key] as @e[type=minecraft:marker,tag=mmo_dungeon_door,distance=0..1,limit=1,tag=!dungeon_preventions,tag=dungeon_generated] at @s[scores={dungeon_spawn_room=3}] run place template mmo_dungeons:cave/lush_cavern ~4 ~-1 ~ clockwise_90
+execute as @s[y_rotation=45..135,tag=mmo_dungeon_key] as @e[type=minecraft:marker,tag=mmo_dungeon_door,distance=0..1,limit=1,tag=!dungeon_preventions,tag=dungeon_generated] at @s[scores={dungeon_spawn_room=3}] run place template mmo_dungeons:cave/lush_cavern ~ ~-1 ~4 180
