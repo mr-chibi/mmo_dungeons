@@ -1,9 +1,0 @@
-{
-	"values": [
-		"mmo_dungeons:generate/cave/mineshaft",
-		"mmo_dungeons:generate/cave/deepdark_cavern",
-		"mmo_dungeons:generate/cave/lush_cavern",
-		"mmo_dungeons:generate/cave/nether_cavern",
-		"mmo_dungeons:generate/cave/dripstone_big_cavern"
-	]
-}
