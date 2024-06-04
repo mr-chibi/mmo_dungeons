@@ -7,6 +7,8 @@ execute as @s[tag=!mmo_debug] run function mmo_dungeons:generate/desert/init
 # Tags:
 function mmo_dungeons:tags/key
 function mmo_dungeons:tags/dungeon_egg
+function mmo_dungeons:tags/reset
+function mmo_dungeons:tags/slain_mobs
 
 # Soundtracks:
 execute if score @s music_settings matches 0 run function mmo:music/themes/entity
