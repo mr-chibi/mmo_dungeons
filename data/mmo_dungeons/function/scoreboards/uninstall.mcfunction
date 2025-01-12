@@ -1,5 +1,9 @@
 # Uninstall Data:
 scoreboard players set mmo_dungeons mmo_addons 0
+scoreboard players remove total_addons mmo_addons 1
+
+#
+scoreboard objectives remove slain_mob
 
 #
 scoreboard objectives remove dungeon_spawn_room
