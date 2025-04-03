@@ -5,7 +5,10 @@ Dungeons are an addon on to existing MMO pack, Mr_Chibi'sMMO! Allowing a diverse
 Yes, you'll need to download the main pack of "Mr_Chibi'sMMO" to play with this addon pack!
 
 ### Where Can I find the original pack?
-https://www.planetminecraft.com/data-pack/mr-chibismmo-datapack/
+[https://modrinth.com/datapack/mr_chibismmo](https://modrinth.com/datapack/mr_chibismmo)
+
+### Need dungeon spawn egg?
+_/give @p minecraft:phantom_spawn_egg[minecraft:custom_name={"text": "Desert Catacombs Dungeon", "color": "aqua"},minecraft:entity_data={id:"minecraft:marker",Tags:["dungeon_spawn_egg"]}] 1_
 
 ### Does this use Minecrafts WorldGen?
 No, this uses my own custom world generation system I coded into game. So players can have fun explore dungeon rooms without having them loading in full to give them way of having a fun! Without cheesing the dungeon getting a blind experience into something they've never seen before!
