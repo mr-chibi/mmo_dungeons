@@ -13,6 +13,9 @@ _/give @p minecraft:phantom_spawn_egg[minecraft:custom_name={"text": "Desert Cat
 ### Does this use Minecrafts WorldGen?
 No, this uses my own custom world generation system I coded into game. So players can have fun explore dungeon rooms without having them loading in full to give them way of having a fun! Without cheesing the dungeon getting a blind experience into something they've never seen before!
 
+### How to get dungeon spawn eggs?
+- Allow spawn egg avaliable is **by killing "Husks" in the "minecraft:desert" biome** it's 1-100 chance the egg will drop from a husk. Right click egg in desert anywhere and dungeon will appear. **Best recommendation** place it at a **low terrain feild in the desert**.
+
 ### Dungeons Spawning:
 How do dungeon spawning work? It only works for "SPECIFIC" biomes meaning they're NOT going to spawn into biomes players would normally go into just way it's programmed.
 
