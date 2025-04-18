@@ -2,7 +2,8 @@
 Dungeons are an addon on to existing MMO pack, Mr_Chibi'sMMO! Allowing a diverse experience adding dungeons into game, to explore, loot and dodge traps with many more!!
 
 ## Do I need any pack requirements?
-Yes, you'll need to download the main pack of "Mr_Chibi'sMMO" to play with this addon pack!
+- No, the world generation is compatible without using mmo pack it's **NOT required**!!
+- Yes, Unless you're looking for desert catacombs it's **REQUIRED**!
 
 ### Where Can I find the original pack?
 [https://modrinth.com/datapack/mr_chibismmo](https://modrinth.com/datapack/mr_chibismmo)
@@ -10,8 +11,9 @@ Yes, you'll need to download the main pack of "Mr_Chibi'sMMO" to play with this 
 ### Need dungeon spawn egg?
 _/give @p minecraft:phantom_spawn_egg[minecraft:custom_name={"text": "Desert Catacombs Dungeon", "color": "aqua"},minecraft:entity_data={id:"minecraft:marker",Tags:["dungeon_spawn_egg"]}] 1_
 
-### Does this use Minecrafts WorldGen?
-No, this uses my own custom world generation system I coded into game. So players can have fun explore dungeon rooms without having them loading in full to give them way of having a fun! Without cheesing the dungeon getting a blind experience into something they've never seen before!
+### Locate Command:
+*Find the new structure using datapack!*
+- /locate structure **mmo_generation:mossy_ruins**
 
 ### How to get dungeon spawn eggs?
 - Allow spawn egg avaliable is **by killing "Husks" in the "minecraft:desert" biome** it's 1-100 chance the egg will drop from a husk. Right click egg in desert anywhere and dungeon will appear. **Best recommendation** place it at a **low terrain feild in the desert**.
