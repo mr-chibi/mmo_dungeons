@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#minecraft:has_structure/buried_treasure",
+  "dimension_padding": 10,
+  "liquid_settings": "ignore_waterlogging",
+  "max_distance_from_center": 116,
+  "size": 9,
+  "spawn_overrides": {},
+  "start_height": {
+    "absolute": 200
+  },
+  "start_pool": "mmo_generation:mossy_skies/island_1",
+  "step": "raw_generation",
+  "terrain_adaptation": "none",
+  "use_expansion_hack": true
+}

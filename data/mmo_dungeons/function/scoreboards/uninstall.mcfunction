@@ -12,4 +12,11 @@ scoreboard objectives remove dungeon_total_entities
 scoreboard objectives remove dungeon_slain_entities
 
 #
+scoreboard objectives remove dungeon_y
+
+#
+scoreboard objectives remove dungeon_animation
+scoreboard objectives remove dungeon_animation_timer
+
+#
 scoreboard objectives remove dungeon_egg

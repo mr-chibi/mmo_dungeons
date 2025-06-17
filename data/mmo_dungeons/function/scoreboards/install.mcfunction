@@ -8,4 +8,11 @@ scoreboard objectives add dungeon_slain_entities dummy
 scoreboard objectives add slain_mob dummy
 
 #
+scoreboard objectives add dungeon_y dummy
+
+#
+scoreboard objectives add dungeon_animation dummy
+scoreboard objectives add dungeon_animation_timer dummy
+
+#
 scoreboard objectives add dungeon_egg minecraft.used:minecraft.phantom_spawn_egg
